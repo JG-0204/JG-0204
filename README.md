@@ -16,5 +16,4 @@ added github streaks to try and end my loop and for fun ig
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JG-0204&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
-[![](https://visitcount.itsvg.in/api?id=JG-0204&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
