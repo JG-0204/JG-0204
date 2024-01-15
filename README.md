@@ -12,8 +12,8 @@ Skills: mediocre JS
 - ⚡ Fun fact: I waste time for a living 
 
 
-added github streaks to try and end my loop and for fun ig
+Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JG-0204&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JG-0204&theme=github-dark-dimmed&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&type=png&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
