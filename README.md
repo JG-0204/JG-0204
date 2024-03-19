@@ -1,14 +1,15 @@
-### Hi there 👋, I am a rock, A rock that is trying to learn web development.
+## 👋 Hi, I'm James! I've been learning web development for about a year now, mainly focusing on JavaScript. 
 
-code - ~~get into a 10 day streak~~ - feel like shit - rot for <sub>60?</sub> days - feel like shit - code
+#### I'm currently taking the online course FullStackOpen.
 
-Skills: mediocre JS
+🛠️ My go-to tools:
 
-- 🌱 I’m currently learning REACT through Full Stack Open 
-- 🤔 I’m looking for help with getting things done 
-- 💬 Ask me about wasting time 
-- ⚡ Fun fact: I waste time for a living 
+- GitHub for version control
+- Visual Studio Code for coding
+- Postman for API testing (used briefly in a project requirement, exploring)
+- Cypress for code quality (used briefly in a project requirement, exploring)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JG-0204&theme=github-dark-dimmed&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
+🌱 I'm driven by a passion for lifelong learning and personal development, always seeking out new opportunities to grow and contribute positively.
+
 
 
